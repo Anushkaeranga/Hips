@@ -1,0 +1,21 @@
+ .type {
+   max-width: 400px;
+   margin: 0 auto;
+   text-align: center;  
+   color:green;
+ }
+ .type label {
+float: left;
+ }
+
+ .type span {
+display: block;
+overflow: hidden;
+padding: 0px 4px 0px 6px;
+ }
+
+ .type button {
+   float: right;
+   position: relative;
+   
+ }
